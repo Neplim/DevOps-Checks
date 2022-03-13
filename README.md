@@ -3,12 +3,12 @@
 <center>
 <table>
   <tr>
-    <td style="width: 80px; height: 75px;"><a href="exercises/devops/README.md"><img src="images/devops.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
-    <td style="width: 80px; height: 75px;"><a href="exercises/cicd/README.md"><img src="images/cicd.png" width="85px;" height="85px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
-    <td style="width: 80px; height: 75px;"><a href="exercises/git/README.md"><img src="images/git.png" width="80px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
-    <td style="width: 80px; height: 75px;"><a href="exercises/ansible/README.md"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
-    <td style="width: 80px; height: 75px;"><a href="#Network"><img src="images/network.png" width="80x;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
-    <td style="width: 80px; height: 75px;"><a href="#linux"><img src="images/linux.png" width="75x;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
+    <td style="width: 80px; height: 75px; align: center;"><a href="exercises/devops/README.md"><img src="images/devops.png" width="70px;" height="75px;" alt="DevOps" /><br /><b>DevOps</b></a></td>
+    <td style="width: 80px; height: 75px; align: center;"><a href="exercises/cicd/README.md"><img src="images/cicd.png" width="85px;" height="85px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
+    <td style="width: 80px; height: 75px; align: center;"><a href="exercises/git/README.md"><img src="images/git.png" width="80px;" height="75px;" alt="Git"/><br /><b>Git</b></a></td>
+    <td style="width: 80px; height: 75px; align: center;"><a href="exercises/ansible/README.md"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
+    <td style="width: 80px; height: 75px; align: center;"><a href="#Network"><img src="images/network.png" width="80x;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
+    <td style="width: 80px; height: 75px; align: center;"><a href="#linux"><img src="images/linux.png" width="75x;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
 
   </tr>
   <tr>
