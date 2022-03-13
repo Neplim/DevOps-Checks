@@ -35,29 +35,7 @@
     <td align="center" width="175px;" height=80px;"><a href="exercises/dns/README.md"><img src="images/dns.png" width="75px;" height="75px;" alt=""/><br /><b>DNS</b></a></td>
     <td align="center" width="175px;" height=80px;"><a href="#Misc"><img src="images/general.png" width="75px;" height="75px;" alt=""/><br /><b>Misc</b></a></td>
   </tr>
-  <tr>
-    <td align="center" width="175px;" height=80px;"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt=""/><br /><b>QA</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#databases"><img src="images/databases.png" width="75px;" height="75px;" alt=""/><br /><b>DB</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#regex"><img src="images/regex.png" width="75ph;" height="75px;" alt=""/><br /><b>Regex</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#system-design"><img src="images/design.png" width="75px;" height="75px;" alt=""/><br /><b>System Design</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#hardware"><img src="images/hardware.png" width="75px;" height="75px;" alt=""/><br /><b>Hardware</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#big-data"><img src="images/big-data.png" width="75px;" height="75px;" alt=""/><br /><b>Big Data</b></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="175px;" height=80px;"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt=""/><br /><b>Certificates</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#containers"><img src="images/containers.png" width="75px;" height="75px;" alt=""/><br /><b>Containers</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#sql"><img src="images/sql.png" width="75px;" height="75px;" alt=""/><br /><b>SQL</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/openshift/README.md"><img src="images/openshift.png" width="75px;" height="75px;" alt=""/><br /><b>OpenShift</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#storage"><img src="images/storage.png" width="75px;" height="75px;" alt=""/><br /><b>Storage</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/soft_skills/README.md"><img src="images/HR.png" width="75px;" height="75px;" alt=""/><br /><b>Soft Skills</b></a></td>
-  </tr>
-  <tr>
-      <td align="center" width="175px;" height=80px;"><a href="exercises/terraform/README.md"><img src="images/terraform.png" width="75px;" height="75px;" alt=""/><br /><b>Terraform</b></a></td>
-      <td align="center" width="175px;" height=80px;"><a href="#mongo"><img src="images/mongo.png" width="75px;" height="75px;" alt=""/><br /><b>Mongo</b></a></td>
-      <td align="center" width="175px;" height=80px;"><a href="#puppet"><img src="images/puppet.png" width="75px;" height="75px;" alt=""/><br /><b>Puppet</b></a></td>
-      <td align="center" width="175px;" height=80px;"><a href="#distributed"><img src="images/distributed.png" width="75px;" height="75px;" alt=""/><br /><b>Distributed</b></a></td>
-      <td align="center" width="175px;" height=80px;"><a href="#questions-you-ask"><img src="images/you.png" width="75px;" height="75px;" alt=""/><br /><b>Questions</b></a></td>
-      <td align="center" width="175px;" height=80px;"><a href="exercises/perl/README.md"><img src="images/perl.png" width="75px;" height="75px;" alt=""/><br /><b>Perl</b></a></td>
-  </tr>
+
+
 </table>
 </center>
