@@ -21,17 +21,17 @@
   </tr>
   <tr>
     <td align="center" width="175px;" height=80px;"><a href="exercises/cloud/README.md"><img src="images/cloud.png" width="75px;" height="75px;" alt=""/><br /><b>Cloud</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/aws/README.md"><img src="images/aws.png" width="75px;" height="75px;" alt=""/><br /><b>AWS</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#azure"><img src="images/azure.png" width="75px;" height="75px;" alt=""/><br /><b>Azure</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#gcp"><img src="images/googlecloud.png" width="75px;" height="75px;" alt=""/><br /><b>Google Cloud</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#openstack"><img src="images/openstack.png" width="75px;" height="75px;" alt=""/><br /><b>OpenStack</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/security/README.md"><img src="images/security.png" width="75px;" height="75px;" alt=""/><br /><b>Security</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="exercises/aws/README.md"><img src="images/amazonaws.svg" width="75px;" height="75px;" alt=""/><br /><b>AWS</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#azure"><img src="images/azure.svg" width="75px;" height="75px;" alt=""/><br /><b>Azure</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#gcp"><img src="images/googlecloud.svg" width="75px;" height="75px;" alt=""/><br /><b>Google Cloud</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#openstack"><img src="images/openstack.svg" width="75px;" height="75px;" alt=""/><br /><b>OpenStack</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="exercises/security/README.md"><img src="images/security.svg" width="75px;" height="75px;" alt=""/><br /><b>Security</b></a></td>
   </tr>
   <tr>
-    <td align="center" width="175px;" height=80px;"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt=""/><br /><b>OS</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#monitoring"><img src="images/monitoring.png" width="75px;" height="75px;" alt=""/><br /><b>Monitoring</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#elastic"><img src="images/elastic.png" width="75px;" height="75px;" alt=""/><br /><b>Elastic</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt=""/><br /><b>Virtualization</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#operating-system"><img src="images/terraform.png" width="75px;" height="75px;" alt=""/><br /><b>OS</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#monitoring"><img src="images/sql.svg" width="75px;" height="75px;" alt=""/><br /><b>SQL</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#elastic"><img src="images/elasticstack.svg" width="75px;" height="75px;" alt=""/><br /><b>Elastic</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#virtualization"><img src="images/virtualbox.svg" width="75px;" height="75px;" alt=""/><br /><b>Virtualization</b></a></td>
     <td align="center" width="175px;" height=80px;"><a href="exercises/dns/README.md"><img src="images/dns.png" width="75px;" height="75px;" alt=""/><br /><b>DNS</b></a></td>
     <td align="center" width="175px;" height=80px;"><a href="#Misc"><img src="images/general.png" width="75px;" height="75px;" alt=""/><br /><b>Misc</b></a></td>
   </tr>
