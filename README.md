@@ -42,9 +42,9 @@
 <td align="center" width="175px;" height=80px;"><a href="#monitoring"><img src="images/docker.svg" width="75px;" height="75px;" alt="Docker"/><br /><b>Docker</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="#kubernetes"><img src="images/kubernetes.svg" width="75px;" height="75px;" alt=""/><br /><b>Kubernetes</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="#elastic"><img src="images/regex.svg" width="75px;" height="75px;" alt="Regex"/><br /><b>Regex</b></a></td>
-<td align="center" width="175px;" height=80px;"><a href="exercises/cloud/README.md"><img src="images/puppet.svg" width="75px;" height="75px;" alt=""/><br /><b>Puppet</b></a></td>
-<td align="center" width="175px;" height=80px;"><a href="chapter/ansible/README.md"><img src="images/ansible.svg" width="75px;" height="75px;" alt="ansible"/><br/><b>Ansible</b></a></td>
-<td align="center" width="175px;" height=80px;"><a href="#Misc"><img src="images/chef.svg" width="75px;" height="75px;" alt=""/><br /><b>Chef</b></a></td>
+<td align="center" width="175px;" height=80px;"><a href="#Misc"><img src="images/misc.svg" width="75px;" height="75px;" alt=""/><br /><b>Misc</b></a></td>
+<td align="center" width="175px;" height=80px;"><a href="exercises/cloud/README.md"><img src="images/blank.svg" width="75px;" height="75px;" alt=""/><br /><b>*</b></a></td>
+<td align="center" width="175px;" height=80px;"><a href="chapter/ansible/README.md"><img src="images/blank.svg" width="75px;" height="75px;" alt="ansible"/><br/><b>*</b></a></td>
  </tr>
 
 </table>
