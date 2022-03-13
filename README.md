@@ -8,7 +8,7 @@
 <td align="center" width="175px;" height=80px;"><a href="chapter/git/README.md"><img src="images/git.svg" width="75px;" height="75px;" alt=""/><br/><b>Git</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="chapter/network/README.md"><img src="images/network.svg" width="75px;" height="75px;" alt="Network"/><br/><b>Network</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="chapter/linux/README.md"><img src="images/linux.svg" width="75px;" height="75px;" alt="Linux"/><br/><b>Linux</b></a></td>
-<td align="center" width="175px;" height=80px;"><a href="chapter/linux/README.md"><img src="images/windows.svg" width="75px;" height="75px;" alt="Linux"/><br/><b>Windows</b></a></td>
+<td align="center" width="175px;" height=80px;"><a href="chapter/linux/README.md"><img src="images/windows.svg" width="75px;" height="75px;" alt="GNU/Linux"/><br/><b>Windows</b></a></td>
 </tr>
 
 <tr>
