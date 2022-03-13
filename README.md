@@ -21,7 +21,7 @@
 </tr>
                                                                                                                                               
 <tr>
-<td align="center" width="175px;" height=80px;"><a href="#operating-system"><img src="images/terraform.png" width="75px;" height="75px;" alt=""/><br /><b>OS</b></a></td>
+<td align="center" width="175px;" height=80px;"><a href="#operating-system"><img src="images/terraform.svg" width="75px;" height="75px;" alt=""/><br /><b>Terraform</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="exercises/aws/README.md"><img src="images/amazonaws.svg" width="75px;" height="75px;" alt=""/><br /><b>AWS</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="#azure"><img src="images/azure.svg" width="75px;" height="75px;" alt=""/><br /><b>Azure</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="#gcp"><img src="images/googlecloud.svg" width="75px;" height="75px;" alt=""/><br /><b>Google Cloud</b></a></td>
