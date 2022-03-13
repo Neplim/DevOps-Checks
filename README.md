@@ -1,16 +1,16 @@
 # DevOps-Checks
 
-
+<a href="exercises/devops/README.md"><img src="images/switch.svg" width="75px;" height="75px;"/></a>
 
 <center>
 <table>
   <tr>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/devops/README.md"><img src="images/devops.svg" width="75px;" height="75px;" alt="DevOps"/><br /><b>DevOps</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/cicd/README.md"><img src="images/cicd.svg" width="75px;" height="75px;" alt="cicd"/><br/><b>CI/CD</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/git/README.md"><img src="images/git.svg" width="75px;" height="75px;" alt=""/><br/><b>Git</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/ansible/README.md"><img src="images/ansible.svg" width="75px;" height="75px;" alt="ansible"/><br/><b>Ansible</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/network/README.md"><img src="images/network.svg" width="75px;" height="75px;" alt="Network"/><br/><b>Network</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/linux/README.md"><img src="images/linux.svg" width="75px;" height="75px;" alt="Linux"/><br/><b>Linux</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="chapter/devops/README.md"><img src="images/devops.svg" width="75px;" height="75px;" alt="DevOps"/><br /><b>DevOps</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="chapter/cicd/README.md"><img src="images/cicd.svg" width="75px;" height="75px;" alt="cicd"/><br/><b>CI/CD</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="chapter/git/README.md"><img src="images/git.svg" width="75px;" height="75px;" alt=""/><br/><b>Git</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="chapter/ansible/README.md"><img src="images/ansible.svg" width="75px;" height="75px;" alt="ansible"/><br/><b>Ansible</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="chapter/network/README.md"><img src="images/network.svg" width="75px;" height="75px;" alt="Network"/><br/><b>Network</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="chapter/linux/README.md"><img src="images/linux.svg" width="75px;" height="75px;" alt="Linux"/><br/><b>Linux</b></a></td>
 
   </tr>
   <tr>
