@@ -1,6 +1,8 @@
+
+
 # DevOps-Checks
 
-<a href="exercises/devops/README.md"><img src="images/switch.svg" width="75px;" height="75px;"/></a>
+<a href="switch/README.md"><img src="images/switch.png" align="right" width="75px;" height="75px;"/></a>
 
 <center>
 <table>
