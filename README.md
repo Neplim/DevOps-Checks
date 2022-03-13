@@ -15,11 +15,11 @@
   </tr>
   <tr>
     <td align="center" width="175px;" height=80px;"><a href="exercises/software_development/README.md"><img src="images/programming.png" width="75px;" height="75px;" alt=""/><br /><b>Develop</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#python"><img src="images/python.png" width="75px;" height="75px;" alt=""/><br /><b>Python</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#python"><img src="images/python.svg" width="75px;" height="75px;" alt=""/><br /><b>Python</b></a></td>
     <td align="center" width="175px;" height=80px;"><a href="#go"><img src="images/Go.png" width="75px;" height="75px;" alt=""/><br /><b>Go</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="exercises/shell/README.md"><img src="images/bash.png" width="75px;" height="75px;" alt=""/><br /><b>Shell Scripting</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#kubernetes"><img src="images/kubernetes.png" width="75px;" height="75px;" alt=""/><br /><b>Kubernetes</b></a></td>
-    <td align="center" width="175px;" height=80px;"><a href="#prometheus"><img src="images/prometheus.png" width="75px;" height="75px;" alt=""/><br /><b>Prometheus</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="exercises/shell/README.md"><img src="images/bash.svg" width="75px;" height="75px;" alt=""/><br /><b>Shell Scripting</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#kubernetes"><img src="images/kubernetes.svg" width="75px;" height="75px;" alt=""/><br /><b>Kubernetes</b></a></td>
+    <td align="center" width="175px;" height=80px;"><a href="#prometheus"><img src="images/prometheus.svg" width="75px;" height="75px;" alt=""/><br /><b>Prometheus</b></a></td>
   </tr>
   <tr>
     <td align="center" width="175px;" height=80px;"><a href="exercises/cloud/README.md"><img src="images/cloud.png" width="75px;" height="75px;" alt=""/><br /><b>Cloud</b></a></td>
