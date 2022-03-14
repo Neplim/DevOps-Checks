@@ -12,10 +12,11 @@
 </tr>
 
 <tr>
-<td align="center" width="175px;" height=80px;"><a href="exercises/software_development/README.md"><img src="images/develop.svg" width="75px;" height="75px;" alt=""/><br /><b>Develop</b></a></td>
+
 <td align="center" width="175px;" height=80px;"><a href="#python"><img src="images/python.svg" width="75px;" height="75px;" alt=""/><br /><b>Python</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="#go"><img src="images/go.svg" width="75px;" height="75px;" alt=""/><br /><b>Go</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="exercises/shell/README.md"><img src="images/bash.svg" width="75px;" height="75px;" alt=""/><br /><b>Shell</b></a></td>
+<td align="center" width="175px;" height=80px;"><a href="exercises/software_development/README.md"><img src="images/cmd.svg" width="75px;" height="75px;" alt=""/><br /><b>CMD</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="exercises/shell/README.md"><img src="images/powershell.svg" width="75px;" height="75px;" alt=""/><br /><b>PowerShell</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="#elastic"><img src="images/regex.svg" width="75px;" height="75px;" alt="Regex"/><br /><b>Regex</b></a></td>
 
@@ -45,7 +46,7 @@
 <td align="center" width="175px;" height=80px;"><a href="#prometheus"><img src="images/prometheus.svg" width="75px;" height="75px;" alt=""/><br /><b>Prometheus</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="exercises/cloud/README.md"><img src="images/grafana.svg" width="75px;" height="75px;" alt=""/><br /><b>Grafana</b></a></td>
 <td align="center" width="175px;" height=80px;"><a href="chapter/ansible/README.md"><img src="images/web.svg" width="75px;" height="75px;" alt="ansible"/><br/><b>Web</b></a></td>
-<td align="center" width="175px;" height=80px;"><a href="#Misc"><img src="images/misc.svg" width="75px;" height="75px;" alt=""/><br /><b>Misc</b></a></td>
+<td align="center" width="175px;" height=80px;"><a href="#Misc"><img src="images/misc.svg" width="75px;" height="75px;" alt=""/><br /><b>Other</b></a></td>
  </tr>
 
 </table>
